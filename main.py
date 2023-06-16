@@ -1,4 +1,4 @@
-s = 'smooms'
+s = "smooms"
 def func(s):
     s = s
     for i in range(len(s)-1):
